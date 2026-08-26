@@ -73,8 +73,6 @@ export default function LoginPage() {
                   },
                   radii: {
                     borderRadiusButton: "12px", // Clean, modern rounded curves matching our cards
-                    buttonSize: "12px",
-                    inputSize: "12px",
                   },
                 },
               },
